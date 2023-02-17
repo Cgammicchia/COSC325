@@ -215,6 +215,8 @@ print(ast)
 
 # OK, you've got the parse tree, now evaluate it!
 def evaluateExpression(expr, symboltable):
+ If I = 0 in range (length.symbolist)
+
  return 0
 
 
